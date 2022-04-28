@@ -1,7 +1,7 @@
 ---
 title: Como dar soporte a una computadora 
 layout: post
-post-image:  https://tesecempresadesoporte.files.wordpress.com/2018/04/images.jpg 
+post-image: "https://tesecempresadesoporte.files.wordpress.com/2018/04/images.jpg" 
 description:A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas 
 tags:
 - jekyll
