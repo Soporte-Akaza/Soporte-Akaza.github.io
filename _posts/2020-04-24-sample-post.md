@@ -1,7 +1,7 @@
 ---
 title: Soporte y Mantenimiento
 layout: post
-post-image: https://images.app.goo.gl/mr3UGJJvvuzoJgzz5
+post-image:  https://cecytebcs.edu.mx/wp-content/uploads/2022/02/soporte.jpg
 description: Proporciona soporte técnico presencial o a distancia en software de aplicación y hardware de acuerdo a los requerimientos del usuario
 tags:
 - sample
