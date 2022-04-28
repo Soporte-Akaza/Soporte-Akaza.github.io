@@ -1,7 +1,7 @@
 ---
 title: Como dar soporte a una computadora 
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+post-image:  http://3.bp.blogspot.com/-z1rUBlFfed0/VN1ky6H3CyI/AAAAAAAAABk/vAzWpSeeK_4/s1600/Foto-0104.jpg
 description:A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas 
 tags:
 - jekyll
