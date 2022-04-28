@@ -1,7 +1,7 @@
 ---
 title: Como dar soporte a una computadora 
 layout: post
-post-image:  http://4.bp.blogspot.com/-9IeOskoky8w/VN1k2_5Tx7I/AAAAAAAAABs/BvFzUJ7dS9U/s1600/soportetecnico.png
+post-image:  https://94f300f5-a-62cb3a1a-s-sites.googlegroups.com/site/manttoysop/mantenimiento-preventivo/mantenimiento-hardware/mantenimiento-a-cpu/z.gif?attachauth=ANoY7crC-bD5d7fRy8G1KjDZQyREq4440_U3uu_TeWB_gyFtHZpNZqTsKq2clrXncvpELfOR2kXCYwsQ-uLcC4c4xo5xjw8f1iKIQNzaNB7rvpBirv9xvDsnDUe_ALWxaAkZ3hA7DFWl0bn9a29XdddOViRKl4e-EbO5PiI9TGLwlvsfywdiwzJUnaz87vv6AWmI9kIrkXDVF8WEFx9zN33P0vd_GUGuaOTgg47kV_cOKuE3qCqqPX6VcdVp5hfAqtWD4hNC8zdRXeuokAm-Sg_Bizh5H_v0WssRT-lmCzKmrT9uI61Fg1Y%3D&attredirects=0
 description:A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas 
 tags:
 - jekyll
