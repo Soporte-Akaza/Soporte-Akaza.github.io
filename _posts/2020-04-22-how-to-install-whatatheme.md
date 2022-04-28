@@ -1,9 +1,8 @@
 ---
-title: How to Install and use WhatATheme?
+title: Tipos de fallas en Computadoras 
 layout: post
 post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+description: Hay muchos problemas pequeños, pero comunes, que se producen regularmente en una computadora personal. La buena noticia es que muchos fallos con los ordenadores tienen soluciones simples, y aprender a reconocer un problema y arreglarlo tú mismo te ahorrará mucho tiempo y dinero
 tags:
 - how to
 - setup
