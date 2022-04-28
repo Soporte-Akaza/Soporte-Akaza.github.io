@@ -1,50 +1,32 @@
 ---
-title: What is Jekyll? How to use it?
+title: Como dar soporte a una computadora 
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+description:A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas 
 tags:
 - jekyll
 - informative
 - technology
 ---
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
-###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
+Si queremos ser un poco más específicos en las funciones, éstas se pueden dividir en distintos procesos dependiendo si es para hardware o software.
 
-> ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
-	
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+Hardware: Consiste en la revisión de componentes internos. Revisar tarjeta madre, rendimiento de la batería, que la pantalla funcione bien, que las teclas respondan, e inclusive que el mouse funcione correctamente; también que los cables de red estén en funcionamiento y que los servidores operen correctamente.
 
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
+### Software: 
+Procesos que se hacen sobre el sistema operativo de la computadora y los programas instalados en el sistema operativo. Todos los procesos de reparación estén bien o limpiar el llamado “caché”, borrar cookies y demás. Instalar anti-virus y todo aquello que puede proteger a la computadora.
 
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
+Muchas veces las empresas adquieren productos o servicios tecnológicos, ya sea un tipo de hardware o software, con el afán y objetivo de buscar mejorar la infraestructura, negocio y el servicio que se le brinda al cliente. Sabiendo que este tipo de cambios son comunes y a la vez indispensables en las empresas, estas implementaciones requieren siempre de un profesional.
 
-Again, `my-site` is just a random name which is customizable.
+Debido a lo mencionado anteriormente, es de suma importancia que una empresa cuente con un profesional en el área de soporte y mantenimiento de computadoras fijo o bien en planilla.
+El tener un buen soporte y mantenimiento de computadoras va muy de la mano con la imagen de la empresa. El profesional en el tema de soporte y mantenimiento es parte fundamental para la buena imagen.
 
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
+En una era en donde la tecnología es parte fundamental del desarrollo y funcionamiento de una empresa, al descuidar esta parte, a su vez se descuida la imagen de la misma y puede cambiar rápidamente.
 
-### Browsing your Jekyll site
-> # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+Piense un momento como empleado de una empresa, si una computadora deja de funcionar o un sistema de la computadora queda congelado y nos lo deja seguir con su trabajo y sus objetivos del día no pueden ser realizados debido a esta falla, y esta es una falla constante, ¿qué imagen tendría de esa empresa?
 
-###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
+Ahora, piense como cliente, si un sistema dentro de una página web o una herramienta que le brinda una empresa como parte del servicio, no funciona o es ineficiente, y esto sucede de manera constante, ¿qué pensaría de esa empresa? ¿Seguiría con los servicios de ésta?
+
+Bueno, he ahí la importancia de estos profesionales y el porqué es importante para la imagen.
