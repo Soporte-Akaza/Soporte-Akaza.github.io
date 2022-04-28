@@ -2,8 +2,7 @@
 title: Soporte y Mantenimiento
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: Proporciona soporte técnico presencial o a distancia en software de aplicación y hardware de acuerdo a los requerimientos del usuario
 tags:
 - sample
 - post
