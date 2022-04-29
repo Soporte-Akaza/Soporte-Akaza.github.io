@@ -1,13 +1,12 @@
 ---
 title: Como dar soporte a una computadora 
 layout: post
-post-image: "https://cesde.edu.pe/wp-content/uploads/2021/02/izq-comp-final.jpg"
-
-description: A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas 
+post-image:  "https://cesde.edu.pe/wp-content/uploads/2021/02/izq-comp-final.jpg"
+description: A grandes rasgos, un técnico o bien un encargado en Soporte y Mantenimiento de Computadoras se forma para poder instalar, poner en funcionamiento, operar, interconectar y dar mantenimiento a equipos de cómputo; aplicando normas y especificaciones técnicas
 tags:
-- jekyll
-- informative
-- technology
+- how to
+- setup
+- theme
 ---
 
 Si queremos ser un poco más específicos en las funciones, éstas se pueden dividir en distintos procesos dependiendo si es para hardware o software.
